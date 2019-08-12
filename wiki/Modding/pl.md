@@ -1,6 +1,6 @@
 # Modowanie
 
-**Modding** (modowanie) - sprawdzanie mapy, a następnie sugerowanie zmian - od lepszych ustawień timingu, po zmianę położenia obiektów. Robi się to na czacie w grze, lub odpowiadając na topic beatmapy. Mapperem nazywa się osobę wykonującą tę aktywność, a mapperem autora beatmapy. Modowanie jest przydatne na trzy sposoby:
+**Modding** (modowanie) - sprawdzanie mapy, a następnie sugerowanie zmian - od lepszych ustawień timingu, po zmianę położenia obiektów. Robi się to na czacie w grze, lub odpowiadając na topic beatmapy. Modderem nazywa się osobę wykonującą tę aktywność, a mapperem autora beatmapy. Modowanie jest przydatne na trzy sposoby:
 
 1.  Jeśli post moddera okaże się przydatny, może otrzymać kudosu, które mogą zostać użyte do zwiększenia priorytetu mapy.
 2.  M4M (mod za mod), czyli wymienianie się modami. Polega to na tym, że osoba X moduje mapę osoby Y, po czym osoba Y ma zmodować mapę osoby X.
